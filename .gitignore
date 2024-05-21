@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+*.egg-info/
+python_scripts/checkpoints/
+max/FluidCorpusManipulation/
+*.json
+*.npy

@@ -69,3 +69,6 @@ Note that *05_render_embeddings.py* will need internet connection to download th
 # Interact with the data
 
 When you generated all datasets (or using the data included in the Zenodo record), open Max, and open the *max/SynthMaps.maxpat* (from this repo). Then follow the instructions in the patch.
+
+<img width="1402" alt="image" src="https://github.com/balintlaczko/synthmaps_icad2024/assets/45127463/698a0e2e-5396-4a65-851a-50b880e9c943">
+

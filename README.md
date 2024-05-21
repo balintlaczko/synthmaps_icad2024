@@ -3,7 +3,7 @@ Code repository for my paper "Synth Maps: Mapping The Non-Proportional Relations
 
 Download the record from Zenodo to get all datasets (recommended):
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.11237789.svg)](http://dx.doi.org/10.5281/zenodo.11237789)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.11237788.svg)](http://dx.doi.org/10.5281/zenodo.11237788)
 
 # Installation
 

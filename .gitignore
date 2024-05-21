@@ -5,6 +5,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.egg-info/
 python_scripts/checkpoints/
-max/FluidCorpusManipulation/
+*.zip
 *.json
 *.npy
